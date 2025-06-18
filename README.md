@@ -37,7 +37,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeevangeorgejohn&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeevoski&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
  🔗 Let's Connect
 
