@@ -43,8 +43,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevangeorgejohn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jeevoski_on_air)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/yourid)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/jeevoski_on_air)
 
 ---
 
-_“Code, Learn, Grow – One Commit at a Time”_voski/jeevoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_“Code, Learn, Grow – One Commit at a Time”_
