@@ -29,9 +29,9 @@
 
 ## 📊 GitHub Stats
 
-![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevangeorgejohn&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeevangeorgejohn&theme=radical)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevangeorgejohn&layout=compact&theme=radical)
+![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevoski&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeevoski&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevoski&layout=compact&theme=radical)
 
 ---
 
@@ -39,19 +39,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeevangeorgejohn&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📌 Most Used Languages
-
-```text
-📘 Python     ██████████░░░
-🌐 JavaScript ███████░░░░░░
-💻 C          █████░░░░░░░░
-
  🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevangeorgejohn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jeevoski_on_air)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/yourid)
 
 ---
