@@ -7,7 +7,6 @@
 
 - 🎓 I’m studying Computer Science at **College of Engineering, Chengannur**
 - 🤖 Exploring **Artificial Intelligence**, **Machine Learning**, and **Web Development**
-- 🎯 My goal is to pass B.Tech with minimal arrears and attempt the **UPSC exam**
 - 📫 Reach me at: **jeevangeorgejohn2@gmail.com**
 
 ---
