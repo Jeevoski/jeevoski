@@ -1,17 +1,59 @@
-# Hey, I'm Jeevan 👋
+<div align="center">
+
+```ascii
+     _                                  
+    | | ___  _____   ____ _ _ __        
+ _  | |/ _ \/ _ \ \ / / _` | '_ \      
+| |_| |  __/  __/\ V / (_| | | | |     
+ \___/ \___|\___| \_/ \__,_|_| |_|     
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# `> Jeevan George John`
 
 **ML Engineer · Computer Vision Developer · UI/UX Designer**
 
-I'm a B.Tech Computer Science (AI & ML) student at the **College of Engineering, Chengannur** (CGPA: 8.53/10), passionate about building intelligent systems and impactful products at the intersection of AI, design, and real-world engineering.
+*B.Tech CSE (AI & ML) · College of Engineering, Chengannur · CGPA: 8.53/10*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Turning+ideas+into+deployable+AI;Design+%2B+Code+%2B+Everything+in+between)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧠 `whoami`
+
+```python
+class Jeevan:
+    def __init__(self):
+        self.name        = "Jeevan George John"
+        self.role        = ["ML Engineer", "CV Developer", "UI/UX Designer"]
+        self.education   = "B.Tech CSE (AI & ML) @ CEC | CGPA: 8.53"
+        self.location    = "Chengannur, Kerala 🇮🇳"
+        self.interests   = ["Computer Vision", "NLP", "Deep Learning", "Generative AI"]
+        self.currently   = "Leading creative @ GDG on Campus, CEC"
+        self.open_to     = ["Research collabs", "Open source", "Internships"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something cool 🚀")
+
+me = Jeevan()
+me.say_hi()
+```
 
 ---
 
 ## 🔭 What I'm Up To
 
-- Building ML systems in **Computer Vision, NLP, and Predictive Modeling**
-- Exploring **Deep Learning** with PyTorch and **LLM-powered** applications
-- Leading content & creative strategy at **GDG on Campus, CEC**
-- Open to collaborating on open-source projects in **AI/ML** or **Web Dev**
+- 🤖 Building ML systems in **Computer Vision, NLP & Predictive Modeling**
+- 🔬 Exploring **Deep Learning** with PyTorch and **LLM-powered** pipelines
+- 🎨 Leading content & creative strategy at **GDG on Campus, CEC**
+- 🤝 Open to collaborating on **AI/ML** or **Web Dev** projects
 
 ---
 
@@ -55,12 +97,12 @@ I'm a B.Tech Computer Science (AI & ML) student at the **College of Engineering,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeevoski&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=Jeevoski&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
@@ -73,14 +115,80 @@ I'm a B.Tech Computer Science (AI & ML) student at the **College of Engineering,
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevoski&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeevoski/Jeevoski/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚠️ The snake animation requires a one-time GitHub Actions setup — see instructions below.
+
+<details>
+<summary>⚙️ <b>Enable the Snake Animation (click to expand)</b></summary>
+
+1. In your `Jeevoski/Jeevoski` repo, create this file:
+   `.github/workflows/snake.yml`
+
+2. Paste this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Jeevoski
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Actions** tab → Run the workflow manually once.
+4. Done — the snake will auto-update daily! 🐍
+
+</details>
+
+---
+
 ## 📬 Connect With Me
+
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevangeorgejohn)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeevoski)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevangeorgejohn2@gmail.com)
 
+</p>
+
 ---
 
-<p align="center">
-  <i>Building things that matter — one model at a time.</i>
-</p>
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Jeevoski&color=00d9ff&style=flat-square&label=Profile+Views)
+
+*"Building things that matter — one model at a time."*
+
+</div>
