@@ -52,23 +52,15 @@ I'm a B.Tech Computer Science (AI & ML) student at the **College of Engineering,
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🚗 **Kastra** | AI-powered highway traffic management system eliminating NH-44 pileups — ML capacity prediction, YOLOv8 vehicle detection, LLM token queuing | Python, YOLOv8, LLMs, CV |
-| ❤️ **Hridhaya AI** | Early cardiac risk detection via binary classification on clinical & lifestyle features | Python, Scikit-learn |
-| ⚽ **AI Transfer IQ** | Predicts footballer transfer market values from 10+ performance metrics using regression & k-fold CV | Python, Scikit-learn, Pandas |
-| 🎥 **Vehicle Re-ID** | Cross-camera vehicle tracking using deep appearance embeddings & similarity matching | PyTorch, Deep Learning |
-| 📹 **Vidsigma** | AI web app that converts YouTube videos into structured summaries via LLM + NLP pipelines | Python, React, NLP |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jeevoski&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%" />
 </p>
 
 ---
@@ -76,7 +68,7 @@ I'm a B.Tech Computer Science (AI & ML) student at the **College of Engineering,
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
