@@ -91,55 +91,9 @@
 
 ## 🏆 Trophies
 
-> 🔓 Trophies unlock automatically as public repos and contributions grow — check back soon!
-
----
-
-## 🐍 Contribution Snake
-
-<details>
-<summary>⚙️ <b>One-time setup to enable the snake animation</b></summary>
-
-<br>
-
-1. In your `Jeevoski/Jeevoski` repo, create `.github/workflows/snake.yml`
-2. Paste this:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Jeevoski
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to **Actions tab → Run workflow** manually once
-4. The snake will auto-update every day after that 🐍
-
-Once set up, the snake will display here:
-
-`![Snake](https://raw.githubusercontent.com/Jeevoski/Jeevoski/output/github-contribution-grid-snake-dark.svg)`
-
-</details>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 ---
 
@@ -162,3 +116,4 @@ Once set up, the snake will display here:
 *"Building things that matter — one model at a time."*
 
 </div>
+
