@@ -1,109 +1,94 @@
-# 🌐 jeevangeorgejohn.dev — Personal Portfolio & Landing Page
+# Hey, I'm Jeevan 👋
 
-> My personal corner of the internet — built to showcase who I am, what I build, and where I'm headed.
+**ML Engineer · Computer Vision Developer · UI/UX Designer**
 
-![Status](https://img.shields.io/badge/status-live-brightgreen)
-![Built With](https://img.shields.io/badge/built%20with-React-61DAFB?logo=react)
-![Design](https://img.shields.io/badge/design-Figma-F24E1E?logo=figma)
-![License](https://img.shields.io/badge/license-MIT-blue)
+I'm a B.Tech Computer Science (AI & ML) student at the **College of Engineering, Chengannur** (CGPA: 8.53/10), passionate about building intelligent systems and impactful products at the intersection of AI, design, and real-world engineering.
 
 ---
 
-## 👋 About Me
+## 🔭 What I'm Up To
 
-I'm **Jeevan George John** — a B.Tech CSE (AI & ML) student at **College of Engineering, Chengannur** (CGPA: 8.53/10), passionate about building intelligent systems, clean interfaces, and things that actually matter.
-
-My work lives at the intersection of **Machine Learning**, **Computer Vision**, **NLP**, and **UI/UX Design** — whether that's predicting footballer transfer values, detecting cardiac risk early, or building smarter highway traffic systems.
-
-- 📍 Chengannur, Kerala, India
-- 📧 [jeevangeorgejohn2@gmail.com](mailto:jeevangeorgejohn2@gmail.com)
-- 💼 [linkedin.com/in/jeevangeorgejohn](https://linkedin.com/in/jeevangeorgejohn)
-- 🐙 [github.com/Jeevoski](https://github.com/Jeevoski)
+- Building ML systems in **Computer Vision, NLP, and Predictive Modeling**
+- Exploring **Deep Learning** with PyTorch and **LLM-powered** applications
+- Leading content & creative strategy at **GDG on Campus, CEC**
+- Open to collaborating on open-source projects in **AI/ML** or **Web Dev**
 
 ---
 
-## 🚀 What's on the Site
+## 💻 Tech Stack
 
-- **About** — Who I am, what I study, and what drives me
-- **Projects** — Highlighted ML, CV, and web projects with descriptions and links
-- **Experience** — Internships, club roles, and leadership
-- **Skills** — Tech stack and tools I work with
-- **Contact** — Ways to reach me
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🛠️ Tech Stack
+**ML / AI**
 
-| Layer | Tools |
-|-------|-------|
-| Frontend | React, HTML, CSS, JavaScript |
-| Styling | Bootstrap / custom CSS |
-| Design | Figma, Framer |
-| Deployment | GitHub Pages / Vercel |
-| Version Control | Git, GitHub |
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
----
+**Web & Design**
 
-## ✨ Featured Projects
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### 🤖 [AI Transfer IQ](https://github.com/Jeevoski) — Footballer Market Value Prediction
-Supervised regression model predicting player transfer market values from 10+ performance metrics using Scikit-learn, k-fold cross-validation, and feature engineering.
+**Tools**
 
-### ❤️ [Hridhaya AI](https://github.com/Jeevoski) — Cardiac Risk Early Detection
-Binary classification system for early cardiac risk detection using clinical and lifestyle features — built to enable proactive health intervention.
-
-### 🚗 [Kastra](https://github.com/Jeevoski) — AI-Powered Highway Traffic Management
-Intelligent traffic management system for NH-44 using ML capacity prediction, YOLOv8 vehicle detection, and LLM-driven token queuing — with anti-starvation logic and medical cargo fast-tracking.
-
-### 🎥 [Vehicle Re-ID Model](https://github.com/Jeevoski) — Cross-Camera Vehicle Tracking
-Deep appearance feature embeddings with similarity matching for persistent vehicle tracking across non-overlapping surveillance feeds, built with PyTorch.
-
-### 📹 [Vidsigma](https://github.com/Jeevoski) — AI YouTube Summarizer
-Web app that converts YouTube videos into structured summaries using LLM + NLP pipelines. Built with React and Python.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 💼 Experience Highlights
+## 🚀 Featured Projects
 
-- 🏢 **AI Intern @ Infosys Springboard** — End-to-end ML pipelines; classification & regression across real datasets
-- 🎨 **Creative Content Lead @ GDG on Campus, CEC** — Content strategy for 5+ dev events; 300+ students reached
-- 📡 **Creative Content Member @ IEEE Student Branch, CEC** — Digital outreach for 4+ technical workshops
-- 🎓 **School Captain @ Kendriya Vidyalaya, Pathanamthitta** — Led a student body of 1,500+
-
----
-
-## 🧠 Skills at a Glance
-
-**Languages:** Python · JavaScript · C · HTML · CSS
-
-**ML / AI:** Scikit-learn · PyTorch · YOLOv8 · OpenCV · NumPy · Pandas · Matplotlib
-
-**Web & Design:** React · Node.js · Bootstrap · Flutter · Figma · Framer
-
-**Domains:** Machine Learning · Deep Learning · Computer Vision · NLP · Data Science · UI/UX Design
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🚗 **Kastra** | AI-powered highway traffic management system eliminating NH-44 pileups — ML capacity prediction, YOLOv8 vehicle detection, LLM token queuing | Python, YOLOv8, LLMs, CV |
+| ❤️ **Hridhaya AI** | Early cardiac risk detection via binary classification on clinical & lifestyle features | Python, Scikit-learn |
+| ⚽ **AI Transfer IQ** | Predicts footballer transfer market values from 10+ performance metrics using regression & k-fold CV | Python, Scikit-learn, Pandas |
+| 🎥 **Vehicle Re-ID** | Cross-camera vehicle tracking using deep appearance embeddings & similarity matching | PyTorch, Deep Learning |
+| 📹 **Vidsigma** | AI web app that converts YouTube videos into structured summaries via LLM + NLP pipelines | Python, React, NLP |
 
 ---
 
-## 📂 Running Locally
+## 📊 GitHub Stats
 
-```bash
-git clone https://github.com/Jeevoski/<repo-name>.git
-cd <repo-name>
-npm install
-npm start
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 📄 License
+## 🏆 Trophies
 
-This project is open source under the [MIT License](LICENSE).
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevangeorgejohn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeevoski)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevangeorgejohn2@gmail.com)
 
 ---
 
 <p align="center">
-  Designed & built by <strong>Jeevan George John</strong> · Kerala, India 🇮🇳
+  <i>Building things that matter — one model at a time.</i>
 </p>
-
