@@ -1,20 +1,6 @@
 <div align="center">
 
-```ascii
-     _                                  
-    | | ___  _____   ____ _ _ __        
- _  | |/ _ \/ _ \ \ / / _` | '_ \      
-| |_| |  __/  __/\ V / (_| | | | |     
- \___/ \___|\___| \_/ \__,_|_| |_|     
-```
-
-</div>
-
----
-
-<div align="center">
-
-# `> Jeevan George John`
+# Hey, I'm Jeevan 👋
 
 **ML Engineer · Computer Vision Developer · UI/UX Designer**
 
@@ -26,34 +12,22 @@
 
 ---
 
-## 🧠 `whoami`
+## 🧠 About Me
 
-```python
-class Jeevan:
-    def __init__(self):
-        self.name        = "Jeevan George John"
-        self.role        = ["ML Engineer", "CV Developer", "UI/UX Designer"]
-        self.education   = "B.Tech CSE (AI & ML) @ CEC | CGPA: 8.53"
-        self.location    = "Chengannur, Kerala 🇮🇳"
-        self.interests   = ["Computer Vision", "NLP", "Deep Learning", "Generative AI"]
-        self.currently   = "Leading creative @ GDG on Campus, CEC"
-        self.open_to     = ["Research collabs", "Open source", "Internships"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool 🚀")
-
-me = Jeevan()
-me.say_hi()
-```
+- 🎓 **B.Tech CSE (AI & ML)** @ College of Engineering, Chengannur — CGPA: **8.53/10**
+- 📍 Chengannur, Kerala, India
+- 🤖 Passionate about **Computer Vision, NLP, Deep Learning & Generative AI**
+- 🎨 Currently leading creative strategy at **GDG on Campus, CEC**
+- 🤝 Open to **research collabs, open source & internships**
+- 💬 Ask me about ML pipelines, CV models, or UI/UX design
 
 ---
 
 ## 🔭 What I'm Up To
 
-- 🤖 Building ML systems in **Computer Vision, NLP & Predictive Modeling**
-- 🔬 Exploring **Deep Learning** with PyTorch and **LLM-powered** pipelines
-- 🎨 Leading content & creative strategy at **GDG on Campus, CEC**
-- 🤝 Open to collaborating on **AI/ML** or **Web Dev** projects
+- Building ML systems in **Computer Vision, NLP & Predictive Modeling**
+- Exploring **Deep Learning** with PyTorch and **LLM-powered** pipelines
+- Open to collaborating on **AI/ML** or **Web Dev** projects
 
 ---
 
@@ -107,14 +81,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -123,21 +89,21 @@ me.say_hi()
 
 ---
 
+## 🏆 Trophies
+
+> 🔓 Trophies unlock automatically as public repos and contributions grow — check back soon!
+
+---
+
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeevoski/Jeevoski/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> ⚠️ The snake animation requires a one-time GitHub Actions setup — see instructions below.
-
 <details>
-<summary>⚙️ <b>Enable the Snake Animation (click to expand)</b></summary>
+<summary>⚙️ <b>One-time setup to enable the snake animation</b></summary>
 
-1. In your `Jeevoski/Jeevoski` repo, create this file:
-   `.github/workflows/snake.yml`
+<br>
 
-2. Paste this content:
+1. In your `Jeevoski/Jeevoski` repo, create `.github/workflows/snake.yml`
+2. Paste this:
 
 ```yaml
 name: Generate Snake
@@ -166,8 +132,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Go to **Actions** tab → Run the workflow manually once.
-4. Done — the snake will auto-update daily! 🐍
+3. Go to **Actions tab → Run workflow** manually once
+4. The snake will auto-update every day after that 🐍
+
+Once set up, the snake will display here:
+
+`![Snake](https://raw.githubusercontent.com/Jeevoski/Jeevoski/output/github-contribution-grid-snake-dark.svg)`
 
 </details>
 
