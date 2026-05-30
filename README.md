@@ -55,7 +55,7 @@
 **Web & Design**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339999?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -73,12 +73,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://streak-stats.demolab.com?user=Jeevoski&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeevoski&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </p>
 
 ---
@@ -109,6 +109,16 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevangeorgejohn2@gmail.com)
 
 </p>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Jeevoski&color=00d9ff&style=flat-square&label=Profile+Views)
+
+*"Building things that matter — one model at a time."*
+
+</div>
 
 ---
 
