@@ -79,16 +79,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="38%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Jeevoski&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+---
+
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" />
+  <img src="https://streak-stats.demolab.com?user=Jeevoski&theme=tokyonight&hide_border=true&cache_seconds=86400" width="55%" />
 </p>
 
 ---
@@ -101,32 +101,31 @@
 
 ---
 
-## 🏅 GitHub Achievements
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1&cache_seconds=86400" />
 </p>
 
+---
+
+## 🏅 Achievements
+
 <p align="center">
 
-![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-0075ff?style=for-the-badge)
-![Quickdraw](https://img.shields.io/badge/⚡%20Quickdraw-ff6b6b?style=for-the-badge)
-![MultiLanguage](https://img.shields.io/badge/🌈%20MultiLanguage-7B2FBE?style=for-the-badge)
-![Commits](https://img.shields.io/badge/💻%20Super%20Committer-2ea44f?style=for-the-badge)
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-0075ff?style=for-the-badge)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-ff6b6b?style=for-the-badge)
+![MultiLanguage](https://img.shields.io/badge/🌈_MultiLanguage-7B2FBE?style=for-the-badge)
+![Super Committer](https://img.shields.io/badge/💻_Super_Committer-2ea44f?style=for-the-badge)
+![Long Time User](https://img.shields.io/badge/🕐_Long_Time_User-f0a500?style=for-the-badge)
 
 </p>
 
 ---
 
-## 📦 Repos at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevoski&repo=Kastra&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevoski&repo=Vidsigma&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<div align="center">
 
 *"Building things that matter — one model at a time."*
 
 </div>
+
