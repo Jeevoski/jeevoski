@@ -1,131 +1,122 @@
-<div align="center">
+# 👋 Hey, I'm Jeevan George John
 
-# Hey, I'm Jeevan 👋
-
-**ML Engineer · Computer Vision Developer · UI/UX Designer**
-
-*B.Tech CSE (AI & ML) · College of Engineering, Chengannur · CGPA: 8.53/10*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Turning+ideas+into+deployable+AI;Design+%2B+Code+%2B+Everything+in+between)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio1-rho-ecru.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevangeorgejohn)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeevoski)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevangeorgejohn2@gmail.com)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Jeevoski&color=00d9ff&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## 🧠 About Me
-
-- 🎓 **B.Tech CSE (AI & ML)** @ College of Engineering, Chengannur — CGPA: **8.53/10**
-- 📍 Chengannur, Kerala, India
-- 🤖 Passionate about **Computer Vision, NLP, Deep Learning & Generative AI**
-- 🎨 Currently leading creative strategy at **GDG on Campus, CEC**
-- 🤝 Open to **research collabs, open source & internships**
-- 💬 Ask me about ML pipelines, CV models, or UI/UX design
-
----
-
-## 🔭 What I'm Up To
-
-- Building ML systems in **Computer Vision, NLP & Predictive Modeling**
-- Exploring **Deep Learning** with PyTorch and **LLM-powered** pipelines
-- Open to collaborating on **AI/ML** or **Web Dev** projects
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**ML / AI**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-**Web & Design**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast;Open+Source+Learner;Computer+Vision+Explorer;Creative+Content+Lead;Building+%26+Learning+Every+Day" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="38%" />
+  <img src="https://komarev.com/ghpvc/?username=Jeevoski&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Jeevoski?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Jeevoski?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeevoski&theme=tokyonight&hide_border=true&cache_seconds=86400" width="55%" />
-</p>
+🎓 B.Tech CSE (AI & ML) Student
+
+🧠 Exploring Machine Learning, Deep Learning & Computer Vision
+
+🌱 Currently learning MLOps & Open Source Development
+
+🎨 Passionate about Design, Content Creation & Community Building
+
+📍 Kerala, India
+
+⚡ Fun Fact: I enjoy turning ideas into real products and learning through building.
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+
+### Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+
+---
+
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jeevoski\&theme=algolia\&margin-w=10\&margin-h=10\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=Jeevoski\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jeevoski\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
 
+[![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevoski\&theme=tokyo-night)](https://github.com/Jeevoski)
+
+---
+
+## 🌟 Current Focus
+
+* Machine Learning Engineering
+* MLOps
+* Open Source Contributions
+* Computer Vision
+* AI Applications
+* Full Stack Development
+
+---
+
+## 🎯 2026 Goals
+
+☑ Build Consistently
+
+☑ Contribute to Open Source
+
+☑ Complete an MLOps Learning Journey
+
+☑ Participate in Global Mentorship Programs
+
+☑ Publish More Technical Projects
+
+☑ Grow as an AI Engineer
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevoski&theme=tokyo-night&hide_border=true&area=true&custom_title=Jeevan's%20Contribution%20Graph" width="95%" />
+<a href="https://github.com/Jeevoski">GitHub</a> •
+<a href="https://linkedin.com/in/jeevangeorgejohn">LinkedIn</a> •
+<a href="mailto:jeevangeorgejohn2@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1&cache_seconds=86400" />
+  <i>"Learning in public, building in public, growing every day."</i>
 </p>
-
----
-
-## 🏅 Achievements
-
-<p align="center">
-
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-0075ff?style=for-the-badge)
-![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-ff6b6b?style=for-the-badge)
-![MultiLanguage](https://img.shields.io/badge/🌈_MultiLanguage-7B2FBE?style=for-the-badge)
-![Super Committer](https://img.shields.io/badge/💻_Super_Committer-2ea44f?style=for-the-badge)
-![Long Time User](https://img.shields.io/badge/🕐_Long_Time_User-f0a500?style=for-the-badge)
-
-</p>
-
----
-
-<div align="center">
-
-*"Building things that matter — one model at a time."*
-
-</div>
 
