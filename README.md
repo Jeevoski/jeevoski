@@ -10,9 +10,9 @@
 
 ## About Me
 
-I am a Computer Science and Engineering (AI & ML) undergraduate at the College of Engineering Chengannur. My interests span Machine Learning, Computer Vision, MLOps, and Software Engineering. I enjoy building practical solutions, exploring new technologies, and continuously improving through hands-on learning.
+I am a Computer Science and Engineering (AI & ML) undergraduate at the College of Engineering Chengannur. My interests span Machine Learning, Computer Vision, MLOps, and Software Engineering. I enjoy building practical solutions, exploring emerging technologies, and continuously learning through hands-on development.
 
-My current focus is on developing strong foundations in machine learning engineering, open-source development, and production-ready AI systems while documenting my journey publicly through GitHub.
+Currently, I am focused on strengthening my foundations in AI engineering, open-source development, and production-ready machine learning systems while documenting my learning journey publicly through GitHub.
 
 ---
 
@@ -21,67 +21,39 @@ My current focus is on developing strong foundations in machine learning enginee
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
 </p>
 
 ### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge" />
 </p>
 
 ### Development & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,git,github,vscode,figma" />
 </p>
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jeevoski&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevoski&theme=tokyo-night&hide_border=true" />
 
----
-
-## Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jeevoski&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jeevoski&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevoski&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
@@ -91,7 +63,7 @@ My current focus is on developing strong foundations in machine learning enginee
 Machine Learning Engineering
 Computer Vision
 MLOps
-Open Source Contributions
+Open Source Development
 AI Applications
 Full Stack Development
 ```
@@ -103,30 +75,37 @@ Full Stack Development
 <p align="center">
 
 <a href="mailto:jeevangeorgejohn2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
+
+   
 
 <a href="https://linkedin.com/in/jeevangeorgejohn">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
+
+   
 
 <a href="https://github.com/Jeevoski">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Jeevoski&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 <div align="center">
 
-# 𝓒𝓸𝓭𝓮 • 𝓛𝓮𝓪𝓻𝓷 • 𝓑𝓾𝓲𝓵𝓭 • 𝓡𝓮𝓹𝓮𝓪𝓽
+<img src="https://komarev.com/ghpvc/?username=Jeevoski&label=Profile+Views&color=0891b2&style=for-the-badge" />
 
 </div>
 
+---
+
+<div align="center">
+
+### 𝓒𝓸𝓭𝓮 • 𝓛𝓮𝓪𝓻𝓷 • 𝓑𝓾𝓲𝓵𝓭 • 𝓖𝓻𝓸𝔀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=120&section=footer"/>
