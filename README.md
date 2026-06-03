@@ -1,114 +1,106 @@
-# 👋 Hey, I'm Jeevan George John
+# Hi, I'm Jeevan George John
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast;Open+Source+Learner;Computer+Vision+Explorer;Creative+Content+Lead;Building+%26+Learning+Every+Day" alt="Typing SVG" />
+I am a Computer Science and Engineering (Artificial Intelligence & Machine Learning) undergraduate at the College of Engineering, Chengannur. My interests lie at the intersection of machine learning, computer vision, MLOps, and software engineering. I enjoy building practical solutions, exploring emerging technologies, and learning through hands-on implementation.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeevoski&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Jeevoski?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Jeevoski?style=for-the-badge" />
+Alongside academics, I actively participate in developer communities, open-source initiatives, technical events, and content creation. I believe in learning publicly, sharing knowledge, and continuously improving through real-world projects and collaboration.
+
+---
+
+## About Me
+
+* B.Tech CSE (AI & ML) Student
+* CGPA: 8.53/10
+* Based in Kerala, India
+* Interested in Machine Learning, Computer Vision, MLOps, and Open Source
+* Currently learning Machine Learning Engineering and Production AI Systems
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge">
+</p>
+
+### Development & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-🎓 B.Tech CSE (AI & ML) Student
-
-🧠 Exploring Machine Learning, Deep Learning & Computer Vision
-
-🌱 Currently learning MLOps & Open Source Development
-
-🎨 Passionate about Design, Content Creation & Community Building
-
-📍 Kerala, India
-
-⚡ Fun Fact: I enjoy turning ideas into real products and learning through building.
-
----
-
-## 🛠️ Tech Arsenal
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-
-### Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
-
----
-
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jeevoski\&theme=algolia\&margin-w=10\&margin-h=10\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=Jeevoski\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jeevoski\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 📈 Contribution Graph
-
-[![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevoski\&theme=tokyo-night)](https://github.com/Jeevoski)
-
----
-
-## 🌟 Current Focus
-
-* Machine Learning Engineering
-* MLOps
-* Open Source Contributions
-* Computer Vision
-* AI Applications
-* Full Stack Development
-
----
-
-## 🎯 2026 Goals
-
-☑ Build Consistently
-
-☑ Contribute to Open Source
-
-☑ Complete an MLOps Learning Journey
-
-☑ Participate in Global Mentorship Programs
-
-☑ Publish More Technical Projects
-
-☑ Grow as an AI Engineer
-
----
-
-## 🤝 Connect With Me
+## GitHub Statistics
 
 <p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevoski&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevoski&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevoski&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+[![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevoski\&theme=github-dark)](https://github.com/Jeevoski)
+
+---
+
+## Current Focus
+
+I am currently focusing on strengthening my foundations in machine learning engineering and MLOps while exploring computer vision systems and open-source development. My goal is to understand how AI systems move from experimentation to production and gain experience working on real-world software projects.
+
+---
+
+## Learning Journey
+
+This repository also serves as a public learning journal documenting my progress and growth in various technical domains.
+
+| Week   | Topic                               |
+| ------ | ----------------------------------- |
+| Week 1 | Introduction to MLOps, Git & GitHub |
+| Week 2 | Coming Soon                         |
+| Week 3 | Coming Soon                         |
+| Week 4 | Coming Soon                         |
+
+---
+
+## Open Source Goals
+
+* Contribute to impactful open-source projects
+* Participate in mentorship programs such as LFX
+* Improve software engineering practices
+* Build production-ready AI applications
+* Collaborate with developers worldwide
+
+---
+
+## Coding Philosophy
+
+> Consistency beats intensity. Small improvements every day compound into significant growth over time.
+
+---
+
+## Connect With Me
+
+<p align="left">
 <a href="https://github.com/Jeevoski">GitHub</a> •
 <a href="https://linkedin.com/in/jeevangeorgejohn">LinkedIn</a> •
 <a href="mailto:jeevangeorgejohn2@gmail.com">Email</a>
@@ -117,6 +109,5 @@
 ---
 
 <p align="center">
-  <i>"Learning in public, building in public, growing every day."</i>
+Last Updated: 2026
 </p>
-
