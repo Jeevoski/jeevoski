@@ -68,7 +68,7 @@ AI Applications
 Full Stack Development
 ```
 
----
+--
 
 ## Connect With Me
 
