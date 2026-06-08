@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Jeevan+George+John;AI+%26+ML+Student;Computer+Vision+Enthusiast;Open+Source+Learner;Building+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Jeevan+George+John;AI+%26+ML+Student;Computer+Vision+Enthusiast;MLOps+Learner;Open+Source+Explorer;Building+and+Learning+Every+Day" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jeevan%20George%20John&fontAlign=50&fontAlignY=40&fontSize=45&animation=fadeIn&theme=tokyonight"/>
 
@@ -35,6 +35,14 @@ Currently, I am focused on strengthening my foundations in AI engineering, open-
 <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge" />
 </p>
 
+### MLOps Tools
+
+<p>
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ### Development & Tools
 
 <p>
@@ -63,34 +71,33 @@ Currently, I am focused on strengthening my foundations in AI engineering, open-
 Machine Learning Engineering
 Computer Vision
 MLOps
+Data Version Control (DVC)
 Open Source Development
 AI Applications
 Full Stack Development
 ```
 
--
+---
 
 ## Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:jeevangeorgejohn2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
-
-   
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/jeevangeorgejohn">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
-
-   
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Jeevoski">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -104,8 +111,9 @@ Full Stack Development
 
 <div align="center">
 
-### 𝓒𝓸𝓭𝓮 • 𝓛𝓮𝓪𝓻𝓷 • 𝓑𝓾𝓲𝓵𝓭 • 𝓖𝓻𝓸𝔀
+## Code • Learn • Build • Grow
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=120&section=footer"/>
+
